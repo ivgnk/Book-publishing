@@ -17,11 +17,15 @@ Ebook digital distribution platforms:
 
 
 # 🏀 LLM for books           
-# LLM                    
-# Rus         
+## About
+https://www.ozon.ru/category/knigi-16500/?text=chatgpt
+
+## LLM                    
+
+## Rus         
 https://giga.chat                             
 https://heybro.ai              
 
 
-## ✏️ Editors            
+# ✏️ Editors            
 https://browser.yandex.ru/c/neuroedit/no-anim                                  
