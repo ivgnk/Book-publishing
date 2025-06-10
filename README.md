@@ -22,8 +22,12 @@ https://yandex.ru/search/?clid=2353835&text=наилучший+способ+пр
 
 
 # 🏀 LLM for books           
-## About
-https://www.ozon.ru/category/knigi-16500/?text=chatgpt
+## LLM
+https://en.wikipedia.org/wiki/Large_language_model                   
+https://en.wikipedia.org/wiki/Category:Large_language_models                      
+
+## About books                            
+https://www.ozon.ru/category/knigi-16500/?text=chatgpt                                       
 
 ## LLM                    
 
