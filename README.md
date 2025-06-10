@@ -17,6 +17,7 @@ https://en.wikipedia.org/wiki/Kindle_Direct_Publishing
 https://moiknigi.at         
 
 ## 📗 Rus                    
+https://yandex.ru/search/?clid=2353835&text=наилучший+способ+продавать+свои+электронные+книги&lr=50                 
 2023 [Публикация книг на Amazon («Амазоне») в 2023 году. Стоит ли? /Amazon KDP/](https://dzen.ru/a/ZTd0sqweryGSDSAg#kakie_knigi_lychshe_vsego_prodayutsya_na_am)             
 
 
