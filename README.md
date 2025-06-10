@@ -12,7 +12,8 @@ Rokomari.com, Scribd, Smashwords, Wattpad
 ## 📕 Eng             
 https://en.wikipedia.org/wiki/Kindle_Direct_Publishing             
 
-### Shop        
+### Shop     
+**https://digiseller.com**
 https://moiknigi.at         
 
 ## 📗 Rus                    
